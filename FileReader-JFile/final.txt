@@ -1,0 +1,108 @@
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000033"
+"0";"2390";"32991946819";"";"0103976383935";"HR4223900013504066497";"GORAN MARINOVIÆ";"POLIÈNIK";"POLIÈNIK 12";"";"";"13";"0345";"20130416";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000056"
+"0";"2390";"78062072671";"";"3008957368028";"HR7123900013504579299";"ANKICA PICCOLI";"LIŽNJAN";"LIŽNJAN 281";"";"";"18";"0235";"20130829";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000103"
+"0";"2390";"33953706254";"";"1908971387802";"HR1023900013504538493";"MARIJANA PULJAK";"SPLIT";"VINOGRADSKA 80";"";"";"17";"0409";"20130819";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000109"
+"0";"2390";"34376163672";"";"1410950381504";"HR6123900013500385296";"NIKO VISKOVIÆ";"DUBROVNIK";"OD BOROVA 22";"";"";"19";"0098";"20111114";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000121"
+"0";"2390";"35428970683";"";"0806970330091";"HR3823900013504124090";"MARKO FRANCIŠKOVIÆ";"ZAGREB";"SACHSOVA 4";"";"";"21";"0133";"20130430";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000157"
+"0";"2390";"80716957862";"";"3001962383626";"HR7223900013504530296";"JOŠKO RADIÆ";"OKRUG GORNJI";"TOÆ 8";"";"";"17";"0588";"20130814";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000329"
+"0";"2390";"40503820483";"";"1103972383128";"HR9623900013504632102";"MIRO BULJ";"SINJ";"SUHAÈ 55 .";"";"";"17";"0389";"20130910";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "005"-"JMBG" : broj sloga-"000409"
+"0";"2390";"";"";"";"HR5023900013218135864";"RADOSLAV DRAGOJEVIÆ";"FREIBURG";"FERD-WEISS-STR 84";"";"";"27";"";"20071019";"20140207";"MVR";"N";"DEU";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "005"-"JMBG" : broj sloga-"000410"
+"0";"2390";"";"";"";"HR5923900013218140067";"ŠEVKO DŽEKIÆ";"GRADAÈAC";"ZELINJA DONJA BB";"";"";"07";"";"20080428";"20140207";"MVR";"N";"BIH";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000429"
+"0";"2390";"01599660223";"";"0205962335056";"HR0523900013504538098";"DAŠA DRAGNIÆ";"SPLIT";"PUT SKALICA 23";"";"";"17";"0409";"20130819";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000468"
+"0";"2390";"86973400327";"";"1610965382115";"HR2223900013504129713";"MILAN MALOÈA";"KNIN";"DR.FRANJE TUÐMANA 30";"";"";"15";"0196";"20130502";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000682"
+"0";"2390";"05739586271";"";"2609958383624";"HR5223900013503999096";"DALIBOR PERICA";"TROGIR";"KNEZA TRPIMIRA 239";"";"";"17";"0463";"20130329";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000707"
+"0";"2390";"46990093468";"";"0807956395039";"HR3923900013504083914";"ANKICA ŽUNIÆ";"DALJ";"HRVATSKE REPUBLIKE 113";"";"";"14";"0110";"20130422";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000762"
+"0";"2390";"94296369101";"";"0903981390016";"HR8323900013504064498";"IVAN PETROV";"GRAÈAC";"HR.BR.ZAJEDNICE 18";"";"";"13";"0131";"20130416";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000766"
+"0";"2390";"95390266697";"";"0906982383101";"HR9223900013504557096";"ANTE GULIÆ";"SINJ";"PUT ŠUMARIJE 74";"";"";"17";"0389";"20130821";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000814"
+"0";"2390";"09863418103";"";"1210966388615";"HR9323900013504471136";"SANJA RADIÆ";"TROGIR";"HPB-TRG IVANA PAVLA II 1";"";"";"17";"0463";"20130729";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000818"
+"0";"2390";"09977206713";"";"0703954383114";"HR1023900013504632292";"ŽARKO DELIÆ";"SINJ";"DINKA ŠIMUNOVIÆA 5";"";"";"17";"0389";"20130910";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000829"
+"0";"2390";"10819582953";"";"0611970385044";"HR9223900013504534301";"DANIRA MATOŠIÆ MATIÈEVIÆ";"SPLIT";"ISTARSKA 22";"";"";"17";"0409";"20130816";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000874"
+"0";"2390";"96840687818";"";"1207984301003";"HR4523900013503971092";"TOMISLAV ALADENIÆ";"ÈRNKOVCI";"K.A.STEPINCA 30";"";"";"14";"0257";"20130320";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000964"
+"0";"2390";"52134472711";"";"0101970334018";"HR4423900013504123691";"NEVEN VRANIÆ";"BUKEVJE";"BUKEVJE 71/1";"";"";"01";"0542";"20130430";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"000987"
+"0";"2390";"53791812263";"";"1111988383104";"HR7423900013504674693";"MARETIÆ PETAR";"DICMO";"KRAJ 74";"";"";"17";"0072";"20130918";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000001"-"nepopunjen sadrzaj" : "003"-"OIB" : broj sloga-"001007"
+"1";"2390";"";"";"0904943397305";"23900019204330867";"ANA-BRANKA PONGRAC";"KRAPINSKE TOPLICE";"ORATJE 38 .";"";"";"02";"0212";"20080325";"20140207";"HRK";"R";"HRV";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000001"-"nepopunjen sadrzaj" : "003"-"OIB" : broj sloga-"001008"
+"1";"2390";"";"";"1701925345603";"23900019201474890";"JANA JAKIÆ";"KAŠT";"KAŠT 3 .";"";"";"04";"0315";"20020813";"20140207";"HRK";"R";"HRV";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000001"-"nepopunjen sadrzaj" : "003"-"OIB" : broj sloga-"001009"
+"1";"2390";"";"";"1911923386013";"23900019200661008";"MARIJA MILETIÆ";"BENKOVAC";".";"";"";"13";"0017";"19990608";"20140207";"HRK";"R";"HRV";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000001"-"nepopunjen sadrzaj" : "003"-"OIB" : broj sloga-"001010"
+"1";"2390";"";"";"2605964330081";"23900019200042645";"NENAD KLAIÆ";"ZAGREB-DUBRAVA";"DANKOVEÈKA 46 .";"";"";"21";"0133";"19980816";"20140207";"HRK";"R";"HRV";"0";"";"1";"";"";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001100"
+"0";"2390";"54946845855";"";"0910962302110";"HR3323900013504602099";"MIHAJLO SEMENJUK";"SLAVONSKI BROD";"MATIJE VLAÈIÆA ILIRIKA 31";"";"";"12";"0396";"20130904";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001351"
+"0";"2390";"17224741201";"";"2809967380009";"HR0623900013504534297";"RANKO MILIÆ";"SPLIT";"MOSEÆKA 108";"";"";"17";"0409";"20130816";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001493"
+"0";"2390";"64484428464";"";"2205965383105";"HR6123900013504556296";"STIPISLAV JADRIJEVIÆ";"SINJ";"GLAVICE 696";"";"";"17";"0389";"20130821";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001515"
+"0";"2390";"66656512030";"";"1608946381901";"HR9823900013504126696";"IVAN GLAVOTA";"RUNOVIÆ";"RUNOVIÆI 744";"";"";"17";"0591";"20130502";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001586"
+"0";"2390";"20585820072";"";"0105962381908";"HR6323900013504112291";"MOMIR KARIN";"GRUBINE";"STJEPANA RADIÆA 7";"";"";"17";"0337";"20130429";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001607"
+"0";"2390";"22906860674";"";"3001977388101";"HR5723900013504312316";"VESNA POLJAK";"SINJ";"ÆURLINI 24";"";"";"17";"0389";"20130617";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001618"
+"0";"2390";"67499501218";"";"2301955310907";"HR4123900013504089698";"MARIJAN LINCMAJER";"VIROVITICA";"P.PRERADOVIÆA 36";"";"";"10";"0491";"20130423";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001734"
+"0";"2390";"24117596338";"";"2104977388101";"HR1223900013504100696";"IVANA ŠABIÆ";"SINJ";"TRG GOJKA ŠUŠKA 5";"";"";"17";"0389";"20130425";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001749"
+"0";"2390";"25416197366";"";"1801955390306";"HR7923900013504082903";"MATO ŠAFRAN";"SOBOÈANI";"9. GRANIÈARSKI ODV. 2";"";"";"01";"0193";"20130422";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001759"
+"0";"2390";"70538665362";"";"1602967383108";"HR7723900013504555523";"MILAN SMOLJO";"SINJ";"GLAVICE 754C";"";"";"17";"0389";"20130821";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+
+Greska : "000004"-"nedozvoljena vrijednost" : "023"-"oznaka specificne namjene" : broj sloga-"001896"
+"0";"2390";"74449950524";"";"2007977383104";"HR3823900013504637899";"DENIS BOBETA";"SINJ";"KNEZA BRANIMIRA 2";"";"";"17";"0389";"20130911";"";"MVR";"R";"HRV";"0";"";"1";"";"3";"";"0";"0";"";"";
+

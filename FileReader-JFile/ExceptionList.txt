@@ -1,0 +1,4 @@
+"000051"="nepopunjen sadrzaj"
+"000052"="neispravan tip podatka"
+"000053"="neispravna duljina podatka"
+"000054"="nedozvoljena vrijednost"
